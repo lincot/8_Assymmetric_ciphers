@@ -1,0 +1,6 @@
+passwords
+session_tokens
+home/
+__pycache__/
+*.log
+*_keys
